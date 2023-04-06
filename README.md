@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrabadiAM&layout=compact&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrabadiAM&layout=compact&theme=darcula&exclude_repo=backend-training,learnings)
 
